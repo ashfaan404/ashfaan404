@@ -39,11 +39,6 @@ Developer Tools	Git, GitHub, VS Code
       <p>Explored RSA file protection using RSA-2048 and OAEP, along with a secure network design covering firewall zones, VPN access, and layered defenses.</p>
       <p><code>Python</code> <code>PyCryptodome</code> <code>RSA</code> <code>Network Security</code></p>
     </td>
-</table><details>
-  <summary><b>🚌 More project work — Smart Transport Route Management System</b></summary>
-  <br />
-  A Java-based route management and booking project applying object-oriented programming, Java Collections, FIFO queues, stack-based search history, and sorting.
-  <br /><br />
   <code>Java</code> <code>OOP</code> <code>ArrayList</code> <code>Stack</code> <code>Queue</code>
 </details>📌 Project repository links and demos will be added as the individual projects are prepared for public release.
 
