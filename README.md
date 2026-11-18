@@ -1,3 +1,5 @@
+<img width="1800" height="520" alt="cyber-lab-banner" src="https://github.com/user-attachments/assets/85313f02-51ce-472c-84f3-18b6a907911f" />
+</p>
 <p align="center">
   <img src="cyber-lab-banner.png" width="100%" alt="AA. Mohamed Ashfaan | Cybersecurity Undergraduate | Digital Forensics | Ethical Hacking | Cyber Defense" />
 </p><h1 align="center">Hi, I'm AA. Mohamed Ashfaan 👋</h1>
