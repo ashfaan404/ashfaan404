@@ -1,3 +1,4 @@
+![Uploading Cybersecurity Undergraduate Neon Banner.png…]()
 <div align="center">
   <img src="assets/profile-banner.svg" width="100%" alt="Mohamed Ashfaan — Building secure, reliable and intelligent software" />
   <a href="https://github.com/ashfaan404"><img src="https://img.shields.io/badge/GitHub-ashfaan404-0D1B2A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
