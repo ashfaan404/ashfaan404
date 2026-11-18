@@ -1,3 +1,4 @@
+<img width="1800" height="520" alt="cyber-lab-banner" src="https://github.com/user-attachments/assets/483c4211-6465-4be7-b9f3-4a5e772ae1cc" />
 <p align="center">
   <img src="cyber-lab-banner.png"
        width="100%"
