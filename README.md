@@ -39,21 +39,6 @@ Developer Tools	Git, GitHub, VS Code
       <p>Explored RSA file protection using RSA-2048 and OAEP, along with a secure network design covering firewall zones, VPN access, and layered defenses.</p>
       <p><code>Python</code> <code>PyCryptodome</code> <code>RSA</code> <code>Network Security</code></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 Health Tracking Mobile App</h3>
-      <p><b>Cross-Platform Mobile Development</b></p>
-      <p>A mobile application for recording and managing daily information, with multiple connected screens and local offline storage.</p>
-      <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>SQLite</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ Bean & Byte — Smart Cafe</h3>
-      <p><b>Desktop Ordering & Management System</b></p>
-      <p>Built customer ordering interfaces, staff workflows, order status tracking, and inventory features backed by a relational database.</p>
-      <p><code>Python</code> <code>CustomTkinter</code> <code>MySQL</code></p>
-    </td>
-  </tr>
 </table><details>
   <summary><b>🚌 More project work — Smart Transport Route Management System</b></summary>
   <br />
