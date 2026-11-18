@@ -17,16 +17,16 @@ I am a computing undergraduate with a growing passion for cybersecurity, digital
 I enjoy understanding how systems work, how attacks happen, and how digital evidence can be used to investigate and protect them.
 
 I am currently building my knowledge through coursework, projects, and hands-on learning in areas such as:
+🎓 BSE 4th Year / Final-Year Computing Studies
+🛡️ Building my cybersecurity foundation through academic and practical projects
+🕵️ Developing PhishGuard, a phishing website detection system
+🔐 Exploring secure coding, cryptography, and network defense concepts
 - Digital Forensics & Evidence Analysis
 - SOC Analytics & Threat Detection
 - Ethical Hacking & Penetration Testing
 - Network Security & Cyber Defense
 - Secure Software Development
-👨‍💻 Currently Working On
-- 🎓 BSE 4th Year / Final-Year Computing Studies
-- 🛡️ Building my cybersecurity foundation through academic and practical projects
-- 🕵️ Developing PhishGuard, a phishing website detection system
-- 🔐 Exploring secure coding, cryptography, and network defense concepts
+  
 ⚡ Currently Learning
 - SOC Analytics — log analysis, alert triage, SIEM basics, incident investigation
 - Digital Forensics — forensic imaging, evidence preservation, hashing, chain of custody, file-system artefacts
