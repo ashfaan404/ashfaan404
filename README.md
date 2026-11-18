@@ -1,6 +1,6 @@
-<p align="center">![Uploading Futuristic Cybersecurity Student Profile Banner.png…]()
-
-  <img src="cyber-lab-banner.png" width="100%" alt="AA. Mohamed Ashfaan | Cybersecurity Undergraduate | Digital Forensics | Ethical Hacking | Cyber Defense" />
+<img width="2172" height="724" alt="Futuristic Cybersecurity Student Profile Banner" src="https://github.com/user-attachments/assets/4a3219a4-1b87-45ec-bfee-a6d88b1ecade" />
+<p align="center">
+  <img src="cyber-lab-banner.png" width="100%" alt="AA.Mohamed Ashfaan | Cybersecurity Undergraduate | Digital Forensics | Ethical Hacking | Cyber Defense" />
 </p><h1 align="center">Hi, I'm AA. Mohamed Ashfaan 👋</h1>
 <h3 align="center">Cybersecurity Undergraduate • Digital Forensics Learner • Aspiring Penetration Tester</h3><p align="center">
   <a href="https://github.com/ashfaan404"><img src="https://img.shields.io/badge/GitHub-ashfaan404-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -106,4 +106,4 @@ Tech: React Native Expo TypeScript SQLite
 </p>🤝 Connect
 <p align="center">
   <a href="https://github.com/ashfaan404"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p><p align="center"><i>Learning. Building. Defending. Investigating.</i></p>![Uploading Futuristic Cybersecurity Student Profile Banner.png…]()
+</p><p align="center"><i>Learning. Building. Defending. Investigating.</i></p>
