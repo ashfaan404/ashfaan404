@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="cyber-lab-banner.png" width="100%" alt="AA. Mohamed Ashfaan | Cybersecurity Undergraduate | Digital Forensics | Ethical Hacking | Cyber Defense" />
+  <img src=![Uploading Futuristic Cybersecurity Student Profile Banner.png…]()
+"cyber-lab-banner.png" width="100%" alt="AA. Mohamed Ashfaan | Cybersecurity Undergraduate | Digital Forensics | Ethical Hacking | Cyber Defense" />
 </p><h1 align="center">Hi, I'm AA. Mohamed Ashfaan 👋</h1>
 <h3 align="center">Cybersecurity Undergraduate • Digital Forensics Learner • Aspiring Penetration Tester</h3><p align="center">
   <a href="https://github.com/ashfaan404"><img src="https://img.shields.io/badge/GitHub-ashfaan404-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -17,10 +18,10 @@ I am a computing undergraduate with a growing passion for cybersecurity, digital
 I enjoy understanding how systems work, how attacks happen, and how digital evidence can be used to investigate and protect them.
 
 I am currently building my knowledge through coursework, projects, and hands-on learning in areas such as:
-🎓 BSE 4th Year / Final-Year Computing Studies
-🛡️ Building my cybersecurity foundation through academic and practical projects
-🕵️ Developing PhishGuard, a phishing website detection system
-🔐 Exploring secure coding, cryptography, and network defense concepts
+- 🎓 BSE 4th Year / Final-Year Computing Studies
+- 🛡️ Building my cybersecurity foundation through academic and practical projects
+- 🕵️ Developing PhishGuard, a phishing website detection system
+- 🔐 Exploring secure coding, cryptography, and network defense concepts
 - Digital Forensics & Evidence Analysis
 - SOC Analytics & Threat Detection
 - Ethical Hacking & Penetration Testing
