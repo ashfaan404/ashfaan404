@@ -1,4 +1,5 @@
-<img width="2172" height="724" alt="Futuristic Cybersecurity Student Profile Banner" src="https://github.com/user-attachments/assets/65abb9db-3d71-48fc-bbb8-763092af04b5" />
+<img width="2172" height="724" alt="Neon Cybersecurity Student Lab Dashboard" src="https://github.com/user-attachments/assets/580ec420-49b5-4da0-b8c2-40664ce2dea8" />
+
 <!--
   AA. Mohamed Ashfaan | GitHub Profile README
   Profile repository: https://github.com/ashfaan404/ashfaan404
