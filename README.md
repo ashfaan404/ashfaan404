@@ -1,109 +1,103 @@
-<img width="2172" height="724" alt="Futuristic Cybersecurity Student Profile Banner" src="https://github.com/user-attachments/assets/4a3219a4-1b87-45ec-bfee-a6d88b1ecade" />
-<p align="center">
-  <img src="cyber-lab-banner.png" width="100%" alt="AA.Mohamed Ashfaan | Cybersecurity Undergraduate | Digital Forensics | Ethical Hacking | Cyber Defense" />
-</p><h1 align="center">Hi, I'm AA. Mohamed Ashfaan 👋</h1>
-<h3 align="center">Cybersecurity Undergraduate • Digital Forensics Learner • Aspiring Penetration Tester</h3><p align="center">
-  <a href="https://github.com/ashfaan404"><img src="https://img.shields.io/badge/GitHub-ashfaan404-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0ea5e9?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Learning-Digital%20Forensics%20%7C%20SOC%20Analytics-14b8a6?style=for-the-badge" alt="Learning" />
-  <img src="https://img.shields.io/badge/Path-Ethical%20Hacking%20%26%20Pentesting-6366f1?style=for-the-badge" alt="Path" />
-</p><p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-currently-working-on">Current Focus</a> •
-  <a href="#-cybersecurity-learning-path">Learning Path</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-technical-toolkit">Toolkit</a>
-</p>🚀 About Me
-I am a computing undergraduate with a growing passion for cybersecurity, digital forensics, cyber defense, and security-focused software development.
-I enjoy understanding how systems work, how attacks happen, and how digital evidence can be used to investigate and protect them.
+<img width="2172" height="724" alt="Futuristic Cybersecurity Student Profile Banner" src="https://github.com/user-attachments/assets/65abb9db-3d71-48fc-bbb8-763092af04b5" />
+<!--
+  AA. Mohamed Ashfaan | GitHub Profile README
+  Self-contained: upload this README.md only.
+  No local image paths, external image services, or GitHub Stats dependencies.
+--><div align="center"><h1>AA. Mohamed Ashfaan</h1><h3>Cybersecurity Undergraduate · Digital Forensics · Aspiring Penetration Tester</h3><p><strong>Exploring how systems are built, how threats emerge, and how digital evidence helps protect what matters.</strong></p><p>
+  <kbd>🛡️ Cyber Defense</kbd> &nbsp;
+  <kbd>🔎 Digital Forensics</kbd> &nbsp;
+  <kbd>📡 SOC Analysis</kbd> &nbsp;
+  <kbd>🎯 Ethical Hacking</kbd>
+</p><p>
+  <a href="#about">About</a> &nbsp;•&nbsp;
+  <a href="#current-focus">Current Focus</a> &nbsp;•&nbsp;
+  <a href="#learning-tracks">Learning Tracks</a> &nbsp;•&nbsp;
+  <a href="#selected-projects">Projects</a> &nbsp;•&nbsp;
+  <a href="#technical-toolkit">Toolkit</a>
+</p></div>About
+I'm a computing undergraduate developing my knowledge of cybersecurity, digital forensics, and secure software development. I enjoy combining technical problem-solving with a security mindset — whether I'm exploring phishing detection, understanding network defenses, or learning how to preserve and examine digital evidence.
 
-I am currently building my knowledge through coursework, projects, and hands-on learning in areas such as:
-- Digital Forensics & Evidence Analysis
-- SOC Analytics & Threat Detection
-- Ethical Hacking & Penetration Testing
-- Network Security & Cyber Defense
-- Secure Software Development
-👨‍💻 Currently Working On
-- 🎓 BSE 4th Year / Final-Year Computing Studies
-- 🛡️ Building my cybersecurity foundation through academic and practical projects
-- 🕵️ Developing PhishGuard, a phishing website detection system
-- 🔐 Exploring secure coding, cryptography, and network defense concepts
-⚡ Currently Learning
-- SOC Analytics — log analysis, alert triage, SIEM basics, incident investigation
-- Digital Forensics — forensic imaging, evidence preservation, hashing, chain of custody, file-system artefacts
-- Penetration Testing — reconnaissance, vulnerability analysis, reporting, and web security concepts
-- Cyber Defense — network monitoring, IDS/IPS concepts, firewall rules, defensive thinking
-- Application Security — secure design, OWASP concepts, validation, and protection of web applications
-I focus on ethical and authorized learning environments only.
-
-🧭 Cybersecurity Learning Path
+My interests span Blue Team operations, ethical hacking, penetration testing, incident response, and application security. I'm building these foundations through academic work, projects, and authorized practice.
+Current Focus
 <table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>🟦 Blue Team</h3>
-      <ul>
-        <li>SOC fundamentals</li>
-        <li>Threat detection</li>
-        <li>Log analysis</li>
-        <li>Incident response basics</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>🟥 Red Team</h3>
-      <ul>
-        <li>Ethical hacking concepts</li>
-        <li>Penetration testing workflow</li>
-        <li>Reconnaissance</li>
-        <li>OWASP-based practice</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>🟩 Forensics & Defense</h3>
-      <ul>
-        <li>Evidence handling</li>
-        <li>Forensic analysis</li>
-        <li>Network defense</li>
-        <li>Security monitoring</li>
-      </ul>
-    </td>
-  </tr>
-</table>🛠 Featured Projects
-🕵️ PhishGuard — Phishing Website Detection
-Machine learning based phishing URL / website detection system with a FastAPI backend and React dashboard.
+<tr>
+<td width="50%" valign="top">
+<h3>🔭 Building & Studying</h3>
+<p>🎓 Final-year computing studies</p>
+<p>🕵️ <strong>PhishGuard</strong> — machine-learning-based phishing website detection</p>
+<p>🔐 Cryptography, secure network design, and software security projects</p>
+</td>
+<td width="50%" valign="top">
+<h3>⚡ Learning Now</h3>
+<p>🔎 Digital forensics and evidence handling</p>
+<p>📡 SOC workflows, logs, and threat detection</p>
+<p>🎯 Ethical hacking and penetration-testing methodology</p>
+<p>🛡️ Network defense and application security</p>
+</td>
+</tr>
+</table>Learning Tracks
+Track	Topics I'm exploring
+🔵 Blue Team / SOC	Log analysis, SIEM fundamentals, alert triage, security monitoring, incident response
+🔴 Ethical Hacking / Pentesting	Reconnaissance, vulnerability assessment, OWASP concepts, testing methodology and reporting
+🔎 Digital Forensics	Evidence preservation, hashing, chain of custody, forensic imaging, file-system artefacts
+🟢 Cyber Defense / AppSec	Firewalls, IDS/IPS, network segmentation, secure coding, web and API security
 
-Tech: Python FastAPI React scikit-learn XGBoost
-🔐 RSA File Protection
-A Python-based cryptography project implementing RSA encryption and decryption with OAEP for secure file handling.
 
-Tech: Python PyCryptodome RSA OAEP
-🌐 Secure Network Architecture
-A secure network design project covering firewalls, VPN access, DMZ, IDS/IPS, and layered defense concepts.
+<details>
+<summary><strong>Explore my learning roadmap</strong></summary>- Investigate: practise log examination, event timelines, and basic evidence analysis.
+- Detect: understand alert handling, indicators of compromise, and network traffic.
+- Assess: work through authorized web-security labs and document findings.
+- Defend: strengthen secure coding, access control, and network security skills.
+- Build: apply cybersecurity concepts to Python and full-stack projects.
+</details>Selected Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🕵️ PhishGuard</h3>
+<p><strong>Phishing Website Detection</strong></p>
+<p>Machine-learning pipeline for phishing detection, with a FastAPI inference service and React dashboard.</p>
+<p><code>Python</code> <code>scikit-learn</code> <code>XGBoost</code> <code>FastAPI</code> <code>React</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>🔐 RSA File Protection</h3>
+<p><strong>Cryptography Coursework</strong></p>
+<p>RSA-2048 key generation, encryption, decryption, and file verification using OAEP.</p>
+<p><code>Python</code> <code>PyCryptodome</code> <code>RSA-OAEP</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌐 Secure Network Design</h3>
+<p><strong>Network Security Coursework</strong></p>
+<p>A layered security architecture covering firewalls, VPN remote access, a DMZ, and IDS/IPS concepts.</p>
+<p><code>Network Security</code> <code>VPN</code> <code>DMZ</code> <code>IDS/IPS</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>📱 Mobile App Development</h3>
+<p><strong>React Native Application</strong></p>
+<p>Mobile app screens and local data storage built with Expo, TypeScript, and SQLite.</p>
+<p><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>SQLite</code></p>
+</td>
+</tr>
+</table><details>
+<summary><strong>More software projects</strong></summary>Project	What I worked on
+Bean & Byte — Smart Cafe	MySQL database, CustomTkinter ordering interface, staff tools, and inventory workflows
+Smart Transport Route Management System	Java OOP application using lists, stacks, queues, and collections
 
-Focus: Network Security VPN Firewall IDS/IPS Defense-in-Depth
-📱 Mobile Application Development
-Built a mobile application using React Native with Expo, TypeScript, navigation, and SQLite.
 
-Tech: React Native Expo TypeScript SQLite
-🧰 Technical Toolkit
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,fastapi,mysql,git,github,vscode&theme=dark&perline=10" alt="Skills" />
-</p>Security & Technical Areas
-- Programming: Python, Java, JavaScript, TypeScript
-- Development: React, React Native, FastAPI
-- Database & Tools: MySQL, SQLite, Git, GitHub, VS Code
-- Cybersecurity Topics: SOC, Digital Forensics, Cryptography, Network Security, Cyber Defense
-- Learning Tools / Platforms: Linux, Wireshark, Nmap, Burp Suite, OWASP ZAP, Autopsy, FTK Imager
-🎯 2026 Learning Goals
-- Strengthen my SOC and threat analysis skills
-- Improve my digital forensics knowledge with more practical analysis
-- Build hands-on penetration testing experience in legal lab environments
-- Expand my cybersecurity portfolio with real academic and personal projects
-- Continue growing as a security-minded software developer
-📊 GitHub Activity
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashfaan404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaan404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>🤝 Connect
-<p align="center">
-  <a href="https://github.com/ashfaan404"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p><p align="center"><i>Learning. Building. Defending. Investigating.</i></p>
+</details>Technical Toolkit
+Languages & frameworks I've used
+Python · Java · JavaScript · TypeScript · React · React Native · FastAPI
+
+Data, machine learning & development tools
+MySQL · SQLite · scikit-learn · XGBoost · Pandas · NumPy · Git · GitHub · VS Code
+
+Security tools on my learning roadmap
+Linux · Wireshark · Nmap · Burp Suite · OWASP ZAP · Autopsy · FTK Imager
+
+<sub>The security tools above are areas for practice and further learning, not claims of professional proficiency.</sub>
+What's Next
+- Deepen my digital forensics knowledge through evidence-analysis exercises.
+- Develop practical SOC and threat-detection skills.
+- Gain more experience in authorized penetration-testing labs.
+- Continue building a portfolio of security-focused software projects.
