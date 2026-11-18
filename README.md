@@ -1,6 +1,6 @@
-<p align="center">
-  <img src=![Uploading Futuristic Cybersecurity Student Profile Banner.png…]()
-"cyber-lab-banner.png" width="100%" alt="AA. Mohamed Ashfaan | Cybersecurity Undergraduate | Digital Forensics | Ethical Hacking | Cyber Defense" />
+<p align="center">![Uploading Futuristic Cybersecurity Student Profile Banner.png…]()
+
+  <img src="cyber-lab-banner.png" width="100%" alt="AA. Mohamed Ashfaan | Cybersecurity Undergraduate | Digital Forensics | Ethical Hacking | Cyber Defense" />
 </p><h1 align="center">Hi, I'm AA. Mohamed Ashfaan 👋</h1>
 <h3 align="center">Cybersecurity Undergraduate • Digital Forensics Learner • Aspiring Penetration Tester</h3><p align="center">
   <a href="https://github.com/ashfaan404"><img src="https://img.shields.io/badge/GitHub-ashfaan404-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -18,16 +18,16 @@ I am a computing undergraduate with a growing passion for cybersecurity, digital
 I enjoy understanding how systems work, how attacks happen, and how digital evidence can be used to investigate and protect them.
 
 I am currently building my knowledge through coursework, projects, and hands-on learning in areas such as:
-- 🎓 BSE 4th Year / Final-Year Computing Studies
-- 🛡️ Building my cybersecurity foundation through academic and practical projects
-- 🕵️ Developing PhishGuard, a phishing website detection system
-- 🔐 Exploring secure coding, cryptography, and network defense concepts
 - Digital Forensics & Evidence Analysis
 - SOC Analytics & Threat Detection
 - Ethical Hacking & Penetration Testing
 - Network Security & Cyber Defense
 - Secure Software Development
-  
+👨‍💻 Currently Working On
+- 🎓 BSE 4th Year / Final-Year Computing Studies
+- 🛡️ Building my cybersecurity foundation through academic and practical projects
+- 🕵️ Developing PhishGuard, a phishing website detection system
+- 🔐 Exploring secure coding, cryptography, and network defense concepts
 ⚡ Currently Learning
 - SOC Analytics — log analysis, alert triage, SIEM basics, incident investigation
 - Digital Forensics — forensic imaging, evidence preservation, hashing, chain of custody, file-system artefacts
@@ -106,4 +106,4 @@ Tech: React Native Expo TypeScript SQLite
 </p>🤝 Connect
 <p align="center">
   <a href="https://github.com/ashfaan404"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p><p align="center"><i>Learning. Building. Defending. Investigating.</i></p>
+</p><p align="center"><i>Learning. Building. Defending. Investigating.</i></p>![Uploading Futuristic Cybersecurity Student Profile Banner.png…]()
