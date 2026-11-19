@@ -73,7 +73,7 @@ Explore my [**Portfolio repository**](https://github.com/ashfaan404/Portfolio), 
 
 ---
 
-## 06 GitHub activity
+## 04 GitHub activity
 
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=ashfaan404&show_icons=true&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=2DD4BF&text_color=C9D1D9)
 
