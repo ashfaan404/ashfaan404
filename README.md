@@ -26,42 +26,6 @@ I'm **AA. Mohamed Ashfaan**, an **HND graduate in Networking & Cybersecurity** f
 
 My interests connect **networking, operating systems, programming, and cyber defense**. I enjoy exploring how systems work, understanding security risks, and developing practical tools that help make technology safer.
 
-### ⚡ At a glance
-
-<!-- GitHub-friendly HTML table: a cleaner 2-column cyber profile dashboard. -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Education</h3>
-      <p><img src="https://img.shields.io/badge/HND-Completed-14B8A6?style=flat-square" alt="HND completed" /></p>
-      <p><strong>Networking &amp; Cybersecurity</strong><br />WinSys Networks</p>
-      <p><strong>BSc (Hons) Cyber Security &amp; Digital Forensics</strong><br />In progress · Expected 2027</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Technical foundation</h3>
-      <p><img src="https://img.shields.io/badge/Focus-Hands--on%20Learning-0284C7?style=flat-square" alt="Hands-on learning" /></p>
-      <p><code>Python</code> <code>Networking</code> <code>Linux</code> <code>Windows</code></p>
-      <p>Security fundamentals · Programming · System administration</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Currently building</h3>
-      <p><img src="https://img.shields.io/badge/Project-In%20Development-F59E0B?style=flat-square" alt="Project in development" /></p>
-      <p><strong>AI-Powered Phishing Website Detection</strong></p>
-      <p><code>Python</code> <code>Machine Learning</code> <code>FastAPI</code> <code>React</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ Exploring &amp; growing</h3>
-      <p><img src="https://img.shields.io/badge/Path-Cybersecurity-0E7490?style=flat-square" alt="Cybersecurity career path" /></p>
-      <p><strong>SOC</strong> · <strong>Digital Forensics</strong> · <strong>Incident Response</strong></p>
-      <p>Cloud security · Security labs · Practical projects</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 02 Current focus
 
 | Field | What I'm exploring |
