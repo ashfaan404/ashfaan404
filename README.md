@@ -92,4 +92,5 @@ I'm open to **cybersecurity internships**, practical learning opportunities and 
 
 **`observe -> investigate -> understand -> defend`**
 
+
 <p align="center"><em>Learning continuously. Building responsibly. Improving through practice.</em></p>
