@@ -54,7 +54,7 @@
       <tr><td align="center"><strong>☁️ Cloud security</strong></td><td align="center">Azure Monitor and Microsoft Defender for Cloud</td></tr>
       <tr><td align="center"><strong>🧪 Ethical hacking</strong></td><td align="center">Authorized security testing and vulnerability assessment labs</td></tr>
     </tbody>
-  </table>  <hr />  <h2>03 / Technical toolkit</h2>
+  </table>  <hr />  <h2>03 Technical toolkit</h2>
   <p><sub>Languages, frameworks, operating systems and security foundations</sub></p>  <h3>⌨️ Programming &amp; scripting</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=py,js,cpp,powershell,bash&amp;theme=dark" alt="Python, JavaScript, C++, PowerShell and Bash icons" />
@@ -81,7 +81,7 @@
     <tr><td align="center"><strong>🎯 Focus</strong></td><td align="center">Practical, explainable phishing detection</td></tr>
   </table>  <p><code>Python</code> <code>Machine Learning</code> <code>FastAPI</code> <code>React</code></p>
   <p><sub>The project is ongoing; its repository link can be added when published.</sub></p>  <h3>🌐 Portfolio</h3>
-  <p>Explore my <a href="https://github.com/ashfaan404/Portfolio"><strong>Portfolio repository</strong></a> for projects,<br />technical learning and cybersecurity-related work.</p>  <hr />  <h2>05 / Learning roadmap</h2>
+  <p>Explore my <a href="https://github.com/ashfaan404/Portfolio"><strong>Portfolio repository</strong></a> for projects,<br />technical learning and cybersecurity-related work.</p>  <hr />  <h2>05 Learning roadmap</h2>
   <p><sub>Building practical experience, one project and lab at a time</sub></p>  <table align="center">
     <thead><tr><th align="center">Progress</th><th align="center">Goal</th></tr></thead>
     <tbody>
@@ -92,7 +92,7 @@
       <tr><td align="center">🎯 Planned</td><td align="center">Practice SOC monitoring and incident response exercises</td></tr>
       <tr><td align="center">🎯 Planned</td><td align="center">Build digital forensics and cloud security skills</td></tr>
     </tbody>
-  </table>  <hr />  <h2>06 / GitHub activity</h2>
+  </table>  <hr />  <h2>06 GitHub activity</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ashfaan404&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=38BDF8&amp;icon_color=2DD4BF&amp;text_color=C9D1D9" alt="GitHub statistics for ashfaan404" />
   </p>
