@@ -67,35 +67,9 @@ My interests connect **networking, operating systems, programming, and cyber def
 
 ---
 
-## 04 Featured project
-
-### 🔎 AI-Powered Phishing Website Detection System — *In development*
-
-A machine-learning-based application designed to analyze website/URL features and help distinguish **potentially suspicious** websites from legitimate ones.
-
-- **Python & machine learning** — feature preparation, model training and evaluation.
-- **FastAPI** — a backend API for website assessment.
-- **React** — a dashboard for displaying detection results.
-- **Focus** — practical, explainable phishing detection for users.
-
-**Stack:** `Python` `Machine Learning` `FastAPI` `React`
-
-*The project is ongoing; its repository link can be added when published.*
-
 ### 🌐 Portfolio
 
 Explore my [**Portfolio repository**](https://github.com/ashfaan404/Portfolio), where I can present projects, technical learning and cybersecurity-related work.
-
----
-
-## 05 Learning roadmap
-
-- [x] Complete HND in Networking & Cybersecurity
-- [ ] Complete BSc (Hons) Cyber Security and Digital Forensics
-- [ ] Complete and document the phishing detection system
-- [ ] Publish networking and security lab write-ups
-- [ ] Practice SOC monitoring and incident response exercises
-- [ ] Build practical digital forensics and cloud security skills
 
 ---
 
@@ -115,7 +89,6 @@ I'm open to **cybersecurity internships**, practical learning opportunities and 
 
 - **GitHub:** [@ashfaan404](https://github.com/ashfaan404)
 - **Email:** [a.asfan2004@gmail.com](mailto:a.asfan2004@gmail.com)
-- **Spoken languages:** English (fluent), Tamil (fluent)
 
 **`observe -> investigate -> understand -> defend`**
 
